@@ -10,7 +10,7 @@
 ## 🏁 Instalação do Projeto
 
 Segue o comando do Git para fazer o clone do projeto.
-#### 👉 git clone   https://github.com/oEvaristo/edify_api
+#### 👉 git clone  https://github.com/oEvaristo/edify_api.git
 
 ### Após fazer o clone abrir o terminal no diretório do projeto e executar o seguinte comando:
 
